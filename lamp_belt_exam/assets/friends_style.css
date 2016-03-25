@@ -1,0 +1,17 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+
+table{
+	border-style:solid solid solid solid;
+	border-width:2px;
+}
+
+table td{
+	border-width:2px;
+}
+
+#logout{
+	text-align:right;
+}

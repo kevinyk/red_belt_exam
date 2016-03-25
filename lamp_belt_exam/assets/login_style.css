@@ -1,0 +1,16 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+
+form{
+	display:inline-block;
+	border-style:solid solid solid solid;
+	border-width:2px;
+	vertical-align: top;
+	width:300px;
+}
+
+form input{
+	display:block;
+}

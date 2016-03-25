@@ -1,0 +1,14 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+
+table{
+	border-style:solid none solid none;
+	border-width:2px;
+}
+
+table td{
+	border-style:none solid none none;
+	border-width:2px;
+}
